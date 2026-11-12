@@ -1,0 +1,12 @@
+{
+  "name": "escrevendo-classes-jogo",
+  "version": "1.0.0",
+  "description": "Desafio DIO de classes e objetos em JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["javascript", "dio", "classes", "objetos", "poo"],
+  "author": "Alexsandro Alves",
+  "license": "MIT"
+}
